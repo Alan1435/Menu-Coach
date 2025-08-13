@@ -1,0 +1,50 @@
+[
+  {
+    "username": "Test",
+    "score": 1,
+    "total": 5,
+    "timestamp": "2025-07-02 05:51"
+  },
+  {
+    "username": "Alan",
+    "score": 5,
+    "total": 5,
+    "timestamp": "2025-07-02 05:53"
+  },
+  {
+    "username": "Test2",
+    "score": 2,
+    "total": 5,
+    "timestamp": "2025-07-02T14:37"
+  },
+  {
+    "username": "Alan1",
+    "score": 2,
+    "total": 5,
+    "timestamp": "2025-07-02T14:38"
+  },
+  {
+    "username": "Test3",
+    "score": 1,
+    "total": 5,
+    "timestamp": "2025-07-02T15:04"
+  },
+  {
+    "username": "Alan14",
+    "score": 4,
+    "total": 5,
+    "timestamp": "2025-07-02T16:15"
+  },
+  {
+    "username": "Test5",
+    "score": 1,
+    "total": 5,
+    "timestamp": "2025-07-07T00:15"
+  },
+  {
+    "username": "Alan1435",
+    "score": 1,
+    "total": 5,
+    "timestamp": "2025-07-07T10:50"
+  }
+]

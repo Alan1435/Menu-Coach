@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Chroma DB persisted directory
+chroma_db/
+
+# Cache and logs
+*.log
+*.sqlite3
+*.db
+.cache/
+*.bak
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Streamlit specific
+.streamlit/config.toml
+
+# pyenv
+.python-version
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
